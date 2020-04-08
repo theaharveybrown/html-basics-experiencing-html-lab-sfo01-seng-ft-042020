@@ -1,0 +1,7 @@
+"Pig"
+"Goat"
+"Duck"
+"Cow"
+"Chicken"
+"Sheep"
+"Horse"
